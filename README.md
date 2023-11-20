@@ -37,7 +37,8 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-
+Deployed Website: https://obi1knube.github.io/code-refactor-obiora/
+Source Code: https://github.com/Obi1knube/code-refactor-obiora
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
