@@ -1,6 +1,6 @@
 # code-refactor-obiora
 
-so your Challenge is an on-the-job ticket&mdash;meaning that you'll begin with starter code that you need to modify. 
+This Challenge is an on-the-job ticket&mdash;meaning that you'll begin with starter code that you need to modify. 
 
 **Refactoring** existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology is a common task for front-end and junior developers. For this particular Challenge, a marketing agency has hired you to refactor an existing site to make it more accessible. 
 
@@ -37,7 +37,8 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-
+Deployed Website: https://obi1knube.github.io/code-refactor-obiora/
+Source Code: https://github.com/Obi1knube/code-refactor-obiora
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
